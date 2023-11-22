@@ -1,0 +1,2 @@
+# Introduction_to_Artifical_Intelligence_Project
+Repository for Pacman Project from Course Introduction to Artificial Intelligence
